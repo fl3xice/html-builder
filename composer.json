@@ -6,7 +6,16 @@
   "authors": [
     {
       "name": "flexice",
-      "email": "get.fl3xice"
+      "email": "get.flexice@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "flexice\\html\\builder\\": "src/flexice/html/builder",
+      "flexice\\html\\builder\\Components\\": "src/flexice/html/builder/Components"
+    }
+  },
+  "require-dev": {
+    "beyondcode/laravel-dump-server": "1.3.0"
+  }
 }
