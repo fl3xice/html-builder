@@ -1,0 +1,12 @@
+{
+  "name": "flexice/html-builder",
+  "description": "Html OOP builder",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "flexice",
+      "email": "get.fl3xice"
+    }
+  ]
+}
